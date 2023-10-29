@@ -1,0 +1,135 @@
+body{background-color:white}
+
+.right{float: right!important;text-align: right!important}
+
+.badg1-img{background-image: url(../img/mac.jpg);
+    background-size: cover;
+width: 100%;height: auto}
+
+.h1-img{color: white;font-size: 60px;margin-left: 60px}
+
+.h6-img{color: white!important;margin-left: 60px!important}
+
+.pos-nav{position: fixed!important;background-color:white!important
+    ;width: 100%!important;z-index: 1111;padding: 0px!important;height: 60px;margin:0px }
+
+.color-gray:hover{background-color: gainsboro!important }
+
+.color-gray{margin: 0px;height: 100%;padding:  18px}
+
+.bu-img{background-color: #ffffffad;margin-left: 60px;font-size: 20px 
+    ;padding-right:20px;padding-left:20px;padding-top:10px;padding-bottom:10px}
+
+.bu-img:hover{background-color:#fff}
+
+.mar-left-60{margin-left: 60px}
+
+.wd-100{width: 100%!important;}
+
+.tx-cen{text-align: center!important}
+
+.h6-com{font-size: 20px!important}
+
+.wd-25{width: 25%}
+
+.wd-50px{width: 50px}
+
+.i-70{font-size:70px }
+
+.pa-40{padding:40px}
+
+.ba-clr-ligr{background-color: lightgrey}
+
+.ba-clr-blk{background-color: black}
+
+.clr-wht{color: white}
+
+.hv-ba-clr-grey{background-color: #000!important}
+
+.pa-10{padding:10px}
+
+.ba-clr-beg{background-color: #f1f1f1!important}
+
+.ma-30{margin: 30px}
+
+.wd-300px{width: 80%}
+
+.ma-20px{margin: 20px}
+
+.ma-lf-15px{margin-left: 20px}
+
+.bx-sh-black{box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);}
+
+.row{padding: 0px;margin: 0px}
+
+.clr-drkgey{background-color: darkgrey!important}
+
+.btn btn-primary{background-color:#f1f1f1!important}
+
+.tp-50{height: 50%!important}
+
+.ma-img{padding: 10px;width: 80%}
+
+.ba-clr-li-gey{background-color: #f1f1f1!important}
+
+.pa-lf-20{padding-left: 40px}
+
+.tx{list-style-type: none}
+
+.ba-clr-#616161{background-color: #616161}
+
+.ba-clr-bck{background-color: black!important}
+
+.clr-bck{color: black}
+
+.ov-hdn{overflow: hidden}
+
+.clr-wht{color: white}
+
+.wd-80{width: 100%}
+
+.clr-#f1f1f1{color: #f1f1f1}
+    
+.ba-clr-wht {background-color: white}   
+    
+.ba-clr-rd{background-color: red}
+
+.clr-dk-gy{color: darkgray}
+
+.pa-bot-25{padding-bottom: 25px}
+
+form{width: 60%;margin: auto;border:1px solid black;padding: 10px;}
+
+input{display: block;margin: 20px;padding: 10px;border: 1px solid gray;width: 90%}
+
+.ba-clr-#f1f1f1{background-color: #efe7e7!important}
+
+
+.ma-lf-at{margin-left: auto}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
